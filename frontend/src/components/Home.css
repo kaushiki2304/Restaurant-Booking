@@ -1,0 +1,9 @@
+.img{
+    
+    object-fit: cover;
+}
+
+.home-header{
+    height: 85vh;
+    background-size: cover;
+}
